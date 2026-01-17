@@ -30,7 +30,7 @@ Follow these simple steps:
 
 1. **Fork** this repository to your GitHub account.
 2. **Clone** the forked repository to your local machine:
-   ```bash
+```bash
    git clone https://github.com/YOUR_USERNAME/python-beginner-zone.git
 
  * Create a new Branch:
@@ -41,12 +41,12 @@ Follow these simple steps:
  * Open contributors/contributors.md and add your name and GitHub profile link.
  * Commit your changes:
 ```bash
-   git commit -m "Added [Your Name] to contributors list"
+git commit -m "Added [Your Name] to contributors list"
 
 ```
 
  * Push the changes:
- ```bash
+```bash
  git push origin add-your-name
 
 ```
