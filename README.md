@@ -29,7 +29,6 @@ Here are some projects you can run, modify, or upgrade:
 | **[Rock Paper Scissors](./projects/beginner-projects/rock_paper_scissors.py)** | Easy | The classic game against the computer. 🎮 |
 | **[Number Guessing](./projects/beginner-projects/number-guessing-game.py)** | Easy | Can you guess the secret number? 🔢 |
 | **[Simple Calculator](./projects/beginner-projects/calculator.py)** | Easy | A basic CLI tool for math operations. 🧮 |
-| **[Password Gen](./projects/beginner-projects/password_generator.py)** | Easy | Generate strong passwords instantly. 🔐 |
 
 > *More cool projects coming soon!*
 
@@ -44,11 +43,11 @@ New to GitHub? No problem! Follow these exact steps to make your first contribut
 2. Open your terminal (or Git Bash).
 3. Type this command (replace `YOUR_USERNAME` with your actual GitHub username):
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/python-beginner-zone.git](https://github.com/YOUR_USERNAME/python-beginner-zone.git)
-
+   git clone https://github.com/YOUR_USERNAME/python-beginner-zone.git
+   ```
  * Go into the folder:
-   cd python-beginner-zone
-
+ ``` cd python-beginner-zone
+ ```
 Step 2: Create a Safe Space (Branch)
 Never change the main code directly! Create a "branch" (a separate version) to work on.
 git checkout -b my-new-feature
