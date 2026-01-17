@@ -1,0 +1,28 @@
+name: Auto Merge PR
+on:
+  pull_request:
+    types: [opened, reopened]
+jobs:
+  auto-approve-and-merge:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+    steps:
+      - name: Auto Approve and Merge
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.pulls.createReview({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              event: 'APPROVE'
+            })
+            github.rest.pulls.merge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              merge_method: 'squash'
+            })
+
