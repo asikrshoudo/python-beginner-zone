@@ -32,10 +32,13 @@ Follow these simple steps:
 2. **Clone** the forked repository to your local machine:
 ```bash
    git clone https://github.com/YOUR_USERNAME/python-beginner-zone.git
+```
 
  * Create a new Branch:
+
 ```bash
    git checkout -b add-your-name
+
 ```
 
  * Open contributors/contributors.md and add your name and GitHub profile link.
