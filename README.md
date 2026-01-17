@@ -41,7 +41,8 @@ Follow these simple steps:
    git commit -m "Added [Your Name] to contributors list"
 
  * Push the changes:
-   git push origin add-your-name
+ ```bash
+ git push origin add-your-name
 
  * Open a Pull Request and wait for the magic! ✨
 💡 Need Ideas?
