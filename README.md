@@ -46,7 +46,8 @@ New to GitHub? No problem! Follow these exact steps to make your first contribut
    git clone https://github.com/YOUR_USERNAME/python-beginner-zone.git
    ```
  * Go into the folder:
- ``` cd python-beginner-zone
+ ```bash 
+    cd python-beginner-zone
  ```
 Step 2: Create a Safe Space (Branch)
 Never change the main code directly! Create a "branch" (a separate version) to work on.
