@@ -26,9 +26,9 @@ Here are some projects you can run, modify, or upgrade:
 
 |  Project Name |  Difficulty |  Description |
 | :--- | :---: | :--- |
-| **[Rock Paper Scissors](./projects/beginner-projects/rock_paper_scissors.py)** | Easy | The classic game against the computer. 🎮 |
-| **[Number Guessing](./projects/beginner-projects/number-guessing-game.py)** | Easy | Can you guess the secret number? 🔢 |
-| **[Simple Calculator](./projects/beginner-projects/calculator.py)** | Easy | A basic CLI tool for math operations. 🧮 |
+| **[Rock Paper Scissors](./projects/beginner-projects/rock_paper_scissors.py)** | Easy | The classic game against the computer.  |
+| **[Number Guessing](./projects/beginner-projects/number-guessing-game.py)** | Easy | Can you guess the secret number?  |
+| **[Simple Calculator](./projects/beginner-projects/calculator.py)** | Easy | A basic CLI tool for math operations.  |
 | **[SAARC](./projects/beginner-projects/saarc.py)** | Easy | The in operator returns True if the value is found in the sequence and False otherwise. It is one of the cleanest ways in Python to perform search operations within lists, strings, or tuples. |
 
 
