@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)
 
 > **"The best way to learn programming is by doing it."**   
-> Stop watching tutorials endlessly. Make your first open-source contribution today! 🚀
+> Stop watching tutorials endlessly. Make your first open-source contribution today!
 
 ---
 
@@ -91,6 +91,6 @@ Support the Project
  Star History
 Give us a star if you like this project! 
 <div align="center">
-<b>Happy Coding! </b>
+<b>Happy Coding ! world</b>
 </div>
 
